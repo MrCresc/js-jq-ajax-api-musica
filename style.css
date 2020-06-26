@@ -47,6 +47,12 @@ header img {
     text-align: center;
 }
 
+.cd:hover {
+  cursor: pointer;
+  transform: scale(105%);
+  transition: all 0.5s;
+}
+
 .cd img {
     max-width: 100%;
 }
